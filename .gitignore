@@ -1,1 +1,19 @@
-file
+ ..
+ .bash_history
+ .bash_logout
+ .bashrc
+ .c.swp
+ .cache
+ .git
+ .gitconfig
+ .gitignore
+ .lesshst
+ .local
+ .motd_shown
+ .o.c.swo
+ .problem.c.swp
+ .ssh
+ .sudo_as_admin_successful
+ .vim
+ .viminfo
+
